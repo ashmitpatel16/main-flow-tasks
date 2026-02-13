@@ -1,0 +1,19 @@
+A summary report highlighting trends, patterns, and anomalies
+
+While doing the data cleaning-
+
+Missing values were removed using mean (numerical) and placeholder.
+Duplicate records were removed to ensure data accuracy.
+Outliers in the Sales column were removed using the IQR method.
+
+Correlation Findings
+
+Sales and Profit show a positive correlation.
+Discount and Profit show a negative correlation.
+Quantity has a mild positive relationship with Sales
+
+Trends and Patterns
+
+Certain regions contribute significantly more to the total sales.
+Some product categories generate high sales but low profit.
+Extreme profit values indicate potential data anomalies or special cases.
